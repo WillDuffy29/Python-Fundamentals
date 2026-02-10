@@ -41,3 +41,4 @@ NOTES
 
 These programs were created as part of my beginner Python learning journey. Each project demonstrates foundational coding skills and problem-solving ability, and collectively they demonstrate my understanding of coding as it progresses from simple calculations to interactive, multi-step programs.
 
+I am using a website (https://www.codedex.io/home) to teach myself the Python language. This program was built from a provided prompt, but the code is entirely my own.
